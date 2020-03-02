@@ -1,5 +1,4 @@
 # CatchTheFish
-An OpenGL game
 
 Catch the fish is an interactive game featuring 2D retro style graphics. The
 objective is to direct a flying bird to catch the jumping fish and eat them. If the player manages to
